@@ -12,19 +12,19 @@ Example usage:
 
     # search something
     https://fcp-image-search.herokuapp.com/search/sea%20sun
-    # example output: https://raw.githubusercontent.com/bcolucci/fcp-image-search/master/example-search.json
+    # example output: https://raw.githubusercontent.com/bcolucci/fcp-image-search/master/example/search.json
 
     # add an offset for a search
     https://fcp-image-search.herokuapp.com/search/sea%20sun?offset=150
-    # will add the offset attribute to the response
+    # (will add the offset attribute to the response)
 
     # retrieve most recent searches (top 100)
     https://fcp-image-search.herokuapp.com/recently
-    # example output: https://raw.githubusercontent.com/bcolucci/fcp-image-search/master/example-recently.json
+    # example output: https://raw.githubusercontent.com/bcolucci/fcp-image-search/master/example/recently.json
 
     # retrieve top searches (top 100)
     https://fcp-image-search.herokuapp.com/topsearches
-    # example output: https://raw.githubusercontent.com/bcolucci/fcp-image-search/master/example-top.json
+    # example output: https://raw.githubusercontent.com/bcolucci/fcp-image-search/master/example/top.json
 
 
 ## How to test
