@@ -1,4 +1,5 @@
 {
   "url": "https://pixabay.com/api/",
-  "key": "2887565-96bb875b73193ba25f12789a9"
+  "key": "2887565-96bb875b73193ba25f12789a9",
+  "limit": 200
 }
