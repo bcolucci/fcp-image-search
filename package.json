@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "decription": "Free Code Camp Image Search",
   "author": "Brice Colucci <brice.colucci@gmail.com>",
-  "main": "index.js",
   "private": true,
   "scripts": {
     "start": "./node_modules/.bin/nf start"
