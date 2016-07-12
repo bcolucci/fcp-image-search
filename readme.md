@@ -30,6 +30,7 @@ Example usage:
 ## How to test
 
     git clone https://github.com/bcolucci/fcp-image-search.git \
+      && cd fcp-image-search \
       && npm install \
       && npm start \
       && xdg-open http://localhost:3210/search/sea%20sun?offset=10
